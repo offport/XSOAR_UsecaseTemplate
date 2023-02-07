@@ -1,4 +1,4 @@
-![](screenshots/xsoarlogo.png)
+![](screenshots/xsoarlogo.PNG)
 
 ## Use Case Definition
 
