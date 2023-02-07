@@ -6,13 +6,13 @@ This document provides a template for defining a use case to be implemented in X
 
 ## Use Case Definition
 
-#### Use Case Name
+### Use Case Name
 Case00-
 
-#### Trigger
+### Trigger
 The use case is triggered when an “Case00 - incident name” incident is raised based on Sentinel Log Analytics alert.
 
-#### Incident structure and mapping
+### Incident structure and mapping
 
 **Layout:** Name of the layout
 
@@ -20,27 +20,27 @@ The use case is triggered when an “Case00 - incident name” incident is raise
 
 **Playbook:** Name of the playbook
 
-#### Incident response process
+### Incident response process
 
 Description of the playbook flow as consecutive points. 
 
-#### Enrichment
+### Enrichment
 
 Description of how data was encriched throughout the incident life cycle.
 
-#### Manual Steps
+### Manual Steps
 
 Desciption of any manual steps in the playbook if any exist.
 
-#### End-user interactiveness
+### End-user interactiveness
 
 Description of any user interaction ex:through email, messaging app, links, forms...
 
-#### Deduplication logic
+### Deduplication logic
 
 In case incidents were linked, this is a description of the deduplication of linked incidents.
 
-### Playbook
+## Playbook
 
 Image of the playbook
 
