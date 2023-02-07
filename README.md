@@ -36,6 +36,14 @@ Desciption of any manual steps in the playbook if any exist.
 
 Description of any user interaction ex:through email, messaging app, links, forms...
 
+### Assumptions
+
+List of assumptions the logic of the playbook follows.
+
+- The structure of the data
+- The accuracy of the input
+- Critical tasks to be successful
+
 ### Deduplication logic
 
 In case incidents were linked, this is a description of the deduplication of linked incidents.
