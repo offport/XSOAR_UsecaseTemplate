@@ -10,7 +10,7 @@ This document provides a template for defining a use case to be implemented in X
 Case00-
 
 ### Trigger
-The use case is triggered when an “Case00 - incident name” incident is raised based on Sentinel Log Analytics alert.
+The use case is triggered when an a condition is met.
 
 ### Incident structure and mapping
 
