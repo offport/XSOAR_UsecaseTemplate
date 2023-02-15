@@ -50,7 +50,7 @@ In case incidents were linked, this is a description of the deduplication of lin
 
 ## Playbook
 
-Image of the playbook
+Screenshot of playbook
 
 ## Testing
 
