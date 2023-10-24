@@ -7,10 +7,16 @@ This document provides a template for defining a use case to be implemented in X
 ## Use Case Definition
 
 ### Use Case Name
+
 Case00-
 
 ### Trigger
-The use case is triggered when an a condition is met.
+
+The playbook is triggered when an a condition is met <condition>.
+
+OR
+
+The playbook is meant to run as a scheduled job <timeframe>.
 
 ### Incident structure and mapping
 
@@ -22,7 +28,7 @@ The use case is triggered when an a condition is met.
 
 ### Incident response process
 
-Description of the playbook flow as consecutive points. 
+Description of the playbook flow as consecutive points.
 
 ### Enrichment
 
@@ -50,23 +56,34 @@ In case incidents were linked, this is a description of the deduplication of lin
 
 ## Playbook
 
-Screenshot of playbook
+- <Playbook Name>
+
+<Screenshot of playbook>
+
+## Subplaybooks
+
+- <Subplaybook1 Name>
+
+<Screenshot of playbook>
+
+- <Subplaybook2 Name>
+
+<Screenshot of playbook>
 
 ## Testing
 
-Desciption of the test case(s)
+- Description of the test case(s)
 
-Proof of playbook runing successfully
+- Proof of playbook running successfully
 
 ## 3rd Party Integrations
 
-|Product Category|Product name and version|Actions needed|
-|--|--|--|
-||||
-          
+| Product Category | Product name and version | Actions needed |
+| --- | --- | --- |
+|  |  |  |
 
 ## Incident Structure (Custom Field)
 
-|Field name|Field name|Comments and Values | Layout Placement|
-|--|--|--|--|
-|Sender Email|Short Text||New / Edit / Close / Summary|
+| Field name | Field name | Comments and Values | Layout Placement |
+| --- | --- | --- | --- |
+| Sender Email | Short Text |  | New / Edit / Close / Summary |
