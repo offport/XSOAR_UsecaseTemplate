@@ -26,11 +26,11 @@ Description of the playbook flow as consecutive points.
 
 ### Enrichment
 
-Description of how data was encriched throughout the incident life cycle.
+Description of how data was enriched throughout the incident life cycle.
 
 ### Manual Steps
 
-Desciption of any manual steps in the playbook if any exist.
+Description of any manual steps in the playbook if any exist.
 
 ### End-user interactiveness
 
