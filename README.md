@@ -4,11 +4,11 @@
 
 This document provides a template for defining a use case to be implemented in XSOAR. The Use Case is defined by the process, logic, and tasks that are being done as part of an Incident Response process for a specific incident type.
 
-## Use Case Definition
-
 ### Use Case Name
 
 Case00-
+
+### Use Case Description
 
 ### Trigger
 
